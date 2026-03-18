@@ -1,4 +1,4 @@
 nombre = "Juan"
 apellido = "Castaño"
 
-print ("Mi nombre es {nombre} {apellido}")
+print (f"Mi nombre es {nombre} {apellido}")
